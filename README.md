@@ -60,5 +60,3 @@ Commit your changes.
 
 Open a Pull Request.
 
-📝 License
-This project is for educational purposes. Please check the repository for specific licensing details.
